@@ -84,7 +84,7 @@ following features are implemented and delivered as part of VerneMQ:
 * Full multitenancy
 * Cluster status web page
 
-The following features are also applies to MQTT 5.0 clients:
+The following features also apply to MQTT 5.0 clients:
 
 * Enhanced authentication schemes (AUTH)
 * Message expiration
